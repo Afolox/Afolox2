@@ -9,10 +9,10 @@ var GeneroP = window.prompt("Es usted hombre o mujer");
 console.log(GeneroP);
 
 var saludoHombre = "Tons que Mop?";
-var saludoMujeres = "Diay que Zorra?";
+var saludoMujeres = "Diay que maldita Zorra?";
 
 	if(GeneroP =="hombre"){
-	saludoDIV.innerHTML = saludoHombre;
+	saludoDIV.innerHTML = saludoHombre;  
 	}
 	else if(GeneroP =="mujer"){
 	saludoDIV.innerHTML = saludoMujeres;
