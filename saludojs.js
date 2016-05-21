@@ -15,7 +15,7 @@ var saludoMujeres = "Diay que maldita Zorra?";
 	saludoDIV.innerHTML = saludoHombre;  
 	}
 	else if(GeneroP =="mujer"){
-	saludoDIV.innerHTML = saludoMujeres;
+	saludoDIV.innerHTML = saludomujersitas;
 	}
 	else{(GeneroP =="*")
 	saludoDIV.innerHTML = "ERROR";
